@@ -1,0 +1,3 @@
+Name: Nanditha
+Course: BCA
+About: GitHub: you learn how real-world software is written, managed, secured, and shared. It’s like a classroom + portfolio + job training tool, all in one place.
